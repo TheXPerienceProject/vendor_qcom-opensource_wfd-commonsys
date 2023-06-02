@@ -26,3 +26,4 @@ include $(call all-makefiles-under, $(LOCAL_PATH))
 endif #QMAA_DISABLES_WFD
 endif #TARGET_HAS_LOW_RAM
 endif #WFD_DISABLE_PLATFORM_LIST
+endif
